@@ -1,6 +1,6 @@
 ### Hi 👋 I am Yong!
 
-I'm a Data Analyst, Data engineer, Writer and Youtuber. I have a keen interest in digital marketing, as well as creating content. 
+I'm a Data Analyst, Data Engineer, Writer and Youtuber. I have a keen interest in digital marketing & advertising.
 
 Outside of work, I enjoy...
 
