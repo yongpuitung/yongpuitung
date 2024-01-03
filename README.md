@@ -5,8 +5,11 @@ I'm a Data Analyst, Data Engineer, Writer and Youtuber. I have a keen interest i
 Outside of work, I enjoy...
 
 Volleyball
+
 Reading
+
 Travelling
+
 Vlogging
 
 Connect with Me📬
