@@ -4,16 +4,12 @@ I'm a Data Analyst, Data Engineer, Writer and Youtuber. I have a keen interest i
 
 Outside of work, I enjoy...
 
-Volleyball
-
-Reading
-
-Travelling
-
-Vlogging
+-:volleyball: Volleyball
+-:book:Reading
+-:airplane:Travelling
+-:movie_camera:Vlogging
 
 Connect with Me📬
+[Medium](www.medium.com/@cserinhk)
 
-www.medium.com/@cserinhk
-
-www.youtube.com/@cserinhk
+[Youtube](www.youtube.com/@cserinhk)
